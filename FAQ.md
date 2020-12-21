@@ -30,5 +30,3 @@ A: Computational thinking includes aspects of pattern recognition, algorithmic t
 
 
 
- 
-**Peace and love only, Stephen Quigley, University of Pittsburgh, 2020**
