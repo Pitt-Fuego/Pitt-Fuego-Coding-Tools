@@ -1,4 +1,4 @@
-## PITT FUEGO BEST PRACTICES
+## Pitt Fuego Teaching Best Practices
 
 **Work with Code –** most all of the code your students will need to write has already been written. Encourage students to work with code, not write it. (Disagree? See our final entry)
 
